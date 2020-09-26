@@ -1,0 +1,39 @@
+.imageOne {
+  float: left;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+.restaurant1Title {
+  margin-top: 20px;
+  padding-top: 30px;
+  font-size: 25px;
+  color: navy;
+  font-weight: bold;
+  padding-bottom: 6px;
+}
+
+.resAdd {
+  padding-top: 6px;
+  color: gray;
+}
+
+.boxOne {
+  color: gray;
+  size: 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+.boxTwo {
+  color: navy;
+  size: 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  margin-bottom: 10px;
+  float: left;
+}

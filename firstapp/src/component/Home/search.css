@@ -1,0 +1,62 @@
+.logo {
+  text-align: center;
+  font-size: 90px;
+  color: red;
+  background: white;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  position:relative;
+  top: -410px;
+  margin: auto;
+  
+}
+
+.heading
+{
+  color: white;
+  text-align: center;
+
+  font-weight: bold;
+  line-height: normal;
+  position: relative;
+  margin: auto;
+
+  font-size:26px;
+  top: -350px;
+} 
+
+.locationSelector {
+ position:relative;
+ margin: auto;
+ top: -310px;
+ text-align: center;
+}
+
+.locationDropdown {
+  height: 40px;
+  width:245px;
+  color: gray;
+  border: none;
+  border-radius: 0px;
+  font-size: 15px;
+  opacity: 0.7;
+  margin-right:21px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.restaurantsinput {
+  height: 40px;
+  width: 245px;
+  color: gray;
+  border: none;
+  border-radius: 0px;
+  font-size: 15px;
+  opacity: 0.7;
+   margin-right:21px;
+ 
+  margin-bottom: 10px;
+ 
+  
+}
